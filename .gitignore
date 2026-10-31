@@ -1,5 +1,7 @@
 .vscode
 .idea
+.venv
+confusion_matrix.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
